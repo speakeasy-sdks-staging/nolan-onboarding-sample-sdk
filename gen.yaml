@@ -9,7 +9,7 @@ generation:
     disableComments: false
     omitDescriptionIfSummaryPresent: false
   baseServerURL: ""
-  sdkClassName: speakeasybar
+  sdkClassName: The-Speakeasy-Bar
   singleTagPerOp: false
   tagNamespacingDisabled: false
   telemetryEnabled: false
@@ -30,3 +30,9 @@ python:
   maxMethodParams: 4
   maxPathParams: 4
   packageName: speakeasybar
+typescript:
+  version: 0.0.1
+  author: nolan-onboarding
+  clientServerStatusCodesAsErrors: true
+  maxMethodParams: 0
+  packageName: The-Speakeasy-Bar
